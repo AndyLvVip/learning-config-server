@@ -5,4 +5,7 @@ spring:
     config:
       server:
         git:
-          basedir: src/resources
+          uri: file://G:/workspace/idea-workspace/learning-config-server/src/main/resources
+logging:
+  level:
+    ROOT: debug
