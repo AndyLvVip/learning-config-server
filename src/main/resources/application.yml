@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: file://G:/workspace/idea-workspace/learning-config-server/src/main/resources
+          uri: https://github.com/AndyLvVip/learning-spring-boot-config-repo
 logging:
   level:
     ROOT: debug
